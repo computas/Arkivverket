@@ -1,0 +1,9 @@
+@import '../../global.scss';
+.home{
+    background-color: aqua;
+}
+
+.btn-div{
+    @extend %horizontal;
+    background-color: bisque;
+}
